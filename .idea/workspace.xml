@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="779cad10-1b17-46af-b399-be65fb2d90eb" name="Default Changelist" comment="">
+    <list default="true" id="779cad10-1b17-46af-b399-be65fb2d90eb" name="Default Changelist" comment="add Procfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
         <option value="Go Application" />
         <option value="HTML File" />
         <option value="Go File" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -31,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -111,6 +113,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Procfile" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="632" y="162" key="#GOPATH" timestamp="1598169076014">
       <screen x="0" y="0" width="1680" height="1010" />
@@ -120,10 +126,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="294" y="159" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598177074160" />
-    <state x="620" y="271" key="FileChooserDialogImpl" timestamp="1598179994523">
+    <state x="604" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598180637548">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="271" key="FileChooserDialogImpl/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598179994523" />
+    <state x="604" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180637548" />
+    <state x="620" y="271" key="FileChooserDialogImpl" timestamp="1598187038535">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="271" key="FileChooserDialogImpl/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598187038535" />
     <state x="718" y="401" key="Github.ShareDialog" timestamp="1598180269835">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -152,10 +162,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="136" key="SettingsEditor/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598172583746" />
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1598180305951">
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1598180699051">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180305951" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180699051" />
     <state x="641" y="435" key="com.goide.codeInsight.imports.GoImportConfigurable$AddImportExclusionDialog" timestamp="1598172557790">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
