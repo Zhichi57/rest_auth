@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="779cad10-1b17-46af-b399-be65fb2d90eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1gUVBBz14fGGD96010YLNgv7dor" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../go_rest_auth" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build handler.go token.go main.go middleware.go (1)">
+    <configuration default="true" type="GoAppEngineRunConfiguration" factoryName="Go App Engine">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 123/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build handler.go token.go main.go middleware.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$/../go_rest_auth" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../go_rest_auth/handler.go|$PROJECT_DIR$/../go_rest_auth/token.go|$PROJECT_DIR$/../go_rest_auth/main.go|$PROJECT_DIR$/../go_rest_auth/middleware.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build handler.go token.go main.go middleware.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/handler.go|$PROJECT_DIR$/token.go|$PROJECT_DIR$/main.go|$PROJECT_DIR$/middleware.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go handler.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go|$PROJECT_DIR$/handler.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="go_rest_auth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build 123/" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go handler.go" />
+      <item itemvalue="Go Build.go build handler.go token.go main.go middleware.go" />
+      <item itemvalue="Go Build.go build handler.go token.go main.go middleware.go (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build handler.go token.go main.go middleware.go (1)" />
+        <item itemvalue="Go Build.go build handler.go token.go main.go middleware.go" />
+        <item itemvalue="Go Build.go build main.go handler.go" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build 123/" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="162" key="#GOPATH" timestamp="1598169076014">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="632" y="162" key="#GOPATH/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598169076014" />
+    <state x="294" y="159" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598177074160">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598177074160" />
+    <state x="620" y="271" key="FileChooserDialogImpl" timestamp="1598179994523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="271" key="FileChooserDialogImpl/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598179994523" />
+    <state x="718" y="401" key="Github.ShareDialog" timestamp="1598180197223">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="718" y="401" key="Github.ShareDialog/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180197223" />
+    <state width="1636" height="267" key="GridCell.Tab.0.bottom" timestamp="1598180208240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="267" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180208240" />
+    <state width="1636" height="267" key="GridCell.Tab.0.center" timestamp="1598180208240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="267" key="GridCell.Tab.0.center/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180208240" />
+    <state width="1636" height="267" key="GridCell.Tab.0.left" timestamp="1598180208240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="267" key="GridCell.Tab.0.left/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180208240" />
+    <state width="1636" height="267" key="GridCell.Tab.0.right" timestamp="1598180208240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="267" key="GridCell.Tab.0.right/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598180208240" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1598172583746">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598172583746" />
+    <state x="641" y="435" key="com.goide.codeInsight.imports.GoImportConfigurable$AddImportExclusionDialog" timestamp="1598172557790">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="641" y="435" key="com.goide.codeInsight.imports.GoImportConfigurable$AddImportExclusionDialog/0.0.1680.1010/1680.26.1280.1024@0.0.1680.1010" timestamp="1598172557790" />
+  </component>
+</project>
